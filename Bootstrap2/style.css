@@ -1,0 +1,16 @@
+header{
+  height: 80vh;
+  background: url(https://wallpapercave.com/wp/wp2957044.jpg) center/cover;
+}
+
+.welcome-section{
+  background-color: rgb(219, 175, 185);
+}
+
+.collection-section{
+  background-color: bisque;
+}
+
+.prices-section{
+  background-color: rgb(194, 144, 172);
+}
